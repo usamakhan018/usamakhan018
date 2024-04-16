@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
-<h3 align="center">I am a Full Stack Developer Specializing in Laravel and React.</h3>
+<h3 align="center">Full Stack Developer Specializing in Laravel and React.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamakhan018" alt="usamakhan018" /></a> </p>
 
