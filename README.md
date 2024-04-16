@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamakhan018" alt="usamakhan018" /></a> </p>
 
-- 🔭 I’m currently working on **Transport Management System**
-
-- 🌱 I’m currently learning and Growing in **Laravel and React**
+- 🌱 I’m currently working in **Laravel and React**
 
 - 👨‍💻 All of my projects are available at [http://usama.kesug.com](http://usama.kesug.com)
 
 - 💬 Ask me about **Laravel, Django, React**
 
-- 📫 How to reach me **ukpreshan@gmail.com**
+- 📫 How to reach me **ukpreshan@gmail.com** , **Telegram: @usamakhan018**
 
 - 📄 Know about my experiences [http://usama.kesug.com/resume.php](http://usama.kesug.com/resume.php)
 
