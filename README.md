@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
 <h3 align="center">Full Stack Developer Specializing in Laravel and React.</h3>
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=usamakhan018.usamakhan018)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamakhan018" alt="usamakhan018" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamakhan018" alt="usamakhan018" /></a> </p> -->
 
 - 🌱 I’m currently working in **Laravel and React**
 
-- 👨‍💻 All of my projects are available at [http://usama.kesug.com](http://usama.kesug.com)
-
-- 💬 Ask me about **Laravel, Django, React**
-
 - 📫 How to reach me **ukpreshan@gmail.com** , **Telegram: @usamakhan018**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/usamakhan018/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0D1526?style=flat&logo=internet-explorer)](https://portfolio.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=flat&logo=whatsapp)](https://wa.me/+923169509803)
 [![Email](https://img.shields.io/badge/Email-Send_Me_an_Email-D14836?style=flat&logo=gmail)](mailto:ukpreshan@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/usamakhan018)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/usamakhan018/)
+
 
 - 📄 Know about my experiences [http://usama.kesug.com/resume.php](http://usama.kesug.com/resume.php)
 
