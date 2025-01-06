@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **ukpreshan@gmail.com** , **Telegram: @usamakhan018**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Usama-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/usamakhan018/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0D1526?style=flat&logo=internet-explorer)](https://portfolio.dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=flat&logo=whatsapp)](https://wa.me/+923169509803)
+[![Email](https://img.shields.io/badge/Email-Send_Me_an_Email-D14836?style=flat&logo=gmail)](mailto:ukpreshan@gmail.com)
+
 - 📄 Know about my experiences [http://usama.kesug.com/resume.php](http://usama.kesug.com/resume.php)
 
 <h3 align="left">Connect with me:</h3>
